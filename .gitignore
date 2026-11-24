@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+runs/
+data/
+kits23/
+*.pth
+*.pt
+*.ckpt
+*.npz
+.DS_Store
